@@ -16,7 +16,11 @@ How to open the Sudoku Solver:
 Instructions on how to use the GUI:
 
 1. Type in the numbers into the correct position of the grid.
+
 ![alt text](utils/Screenshot before.PNG "GUI before solving")
+
 2. Press the button START to solve the program.
+
 ![alt text](utils/Screenshot after.PNG "GUI after solving")
+
 3. Once you are happy with the result, press the RESET button to clear the grid.
