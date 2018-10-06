@@ -6,7 +6,7 @@ The repository has the example program **Sudoku Solver example.py**, which solve
 
 On the other hand there is the full program **GUI Sudoku.py** The implementation shown required Tkinter in order to produce the GUI.
 
-![alt text](utils/Screenshot.PNG "GUI Screenshot" =200x200)
+<img src="utils/Screenshot.PNG" width="200" height="200">
 
 How to open the Sudoku Solver:
 
@@ -17,10 +17,10 @@ Instructions on how to use the GUI:
 
 1. Type in the numbers into the correct position of the grid.
 
-	![alt text](utils/Screenshot_before.PNG "GUI before solving" =100x100)
+	<img src="utils/Screenshot_before.PNG" width="150" height="150">
 
 2. Press the button START to solve the program.
 
-	![alt text](utils/Screenshot_after.PNG "GUI after solving" =100x100)
+	<img src="utils/Screenshot_after.PNG" width="150" height="150">
 
 3. Once you are happy with the result, press the RESET button to clear the grid.
