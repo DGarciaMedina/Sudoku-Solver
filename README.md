@@ -9,11 +9,14 @@ On the other hand there is the full program **GUI Sudoku.py** The implementation
 ![alt text](utils/Screenshot.PNG "GUI Screenshot")
 
 How to open the Sudoku Solver:
+
 1. Clone the repo.
-2. Open the .exe file in "SUDOKU SOLVER/dist/GUI Sudoku.exe"
+2. Open the .exe file in "SUDOKU SOLVER/dist/GUI Sudoku/GUI Sudoku.exe"
 
 Instructions on how to use the GUI:
 
 1. Type in the numbers into the correct position of the grid.
+![alt text](utils/Screenshot before.PNG "GUI before solving")
 2. Press the button START to solve the program.
+![alt text](utils/Screenshot after.PNG "GUI after solving")
 3. Once you are happy with the result, press the RESET button to clear the grid.
