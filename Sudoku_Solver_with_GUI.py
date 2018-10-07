@@ -1,6 +1,20 @@
+'''
+Author: Diego Garcia Medina
+Date: October 2018
+Email: diego.garcia.medina@outlook.com
+GitHub website: https://github.com/DGarciaMedina
+
+This is a program that will output a GUI with the Tkinter library where the
+user is shown an empty Sudoku grid, and the initial numbers may be input
+and then the program will solve it for you!
+
+NOTE: This program requires Sudoku_Solver_algorithm.py so don´t delete it
+      or move it somewhere else!
+'''
+
 from tkinter import *
 import tkinter.messagebox
-from Sudoku2 import solver
+from Sudoku_Solver_example import solver
 
 root = Tk()
 root.geometry("1000x850+300+0")

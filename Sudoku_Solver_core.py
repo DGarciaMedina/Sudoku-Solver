@@ -1,3 +1,17 @@
+'''
+Author: Diego Garcia Medina
+Date: October 2018
+Email: diego.garcia.medina@outlook.com
+GitHub website: https://github.com/DGarciaMedina
+
+This is a program that has the main algorithm to solve an easy/medium sudoku
+game. It will display the solution and will also return the number of 
+iterations that were required to solve the puzzle.
+
+NOTE: This is the program used by Sudoku_Solver_with_GUI.py so don´t delete it
+      or move it somewhere else!
+'''
+
 import numpy as np
 
 square = [0] * 9
